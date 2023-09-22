@@ -1,0 +1,11 @@
+Required:
+1- Install Python and Pycharm
+2- Install Chromedriver
+
+Run projects:
+1- Open CMD console
+2- Navigate to the project route
+3- Run every file using the command : example: "python ejercicio1.py"
+   or press "Run" from the PyCharm console
+
+

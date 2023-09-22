@@ -1,0 +1,80 @@
+Ejercicio 1:
+-Find the link to the category 'Laptops'
+-Verify that the Laptops page loaded correctly
+-Back to the index website
+-Find the link to the category 'Phones'
+-Verify that the Monitors page loaded correctly
+-Back to the index website
+-Find the link to the category 'Monitors'
+-Verify that the Laptops page loaded correctly
+
+
+Expected Result: All categories load successfully.
+
+
+Ejercicio 2:
+-User at index website
+-"Click" on the article Samsung galaxy s6
+-"Click" on Add to cart
+-"Click" on Ok to confirm the action
+-User back to the index website
+-"Click" on Laptops menu
+-"Click" on the article Sony vaio i5
+-"Click" on Add to cart
+-"Click" on Ok to confirm the action
+-User backs to the index website
+-"Click" on Monitors menu
+-"Click" on the article Apple monitor 24
+-"Click" on Add to cart
+-"Click" on Ok to confirm the action
+-"Click" on Cart to check the elements.
+
+
+Expected Result:
+Add one item from each category to the cart.
+The cart should show the quantity added.
+
+
+
+
+Ejercicio 3:
+-User at index website
+-Find a product
+-"Click" on Add to cart
+-"Click" on Ok to confirm the action
+-"Click" on Cart
+-Verify that the product is in the cart
+-"Click" on Delete to remove product from cart
+-Verify that the product has been successfully removed from your shopping cart
+
+Expected Result: The shopping cart is updated correctly when adding and deleting items.
+
+
+Ejercicio 4:
+-User at index website
+-Find a product
+-"Click" on Add to cart
+-"Click" on Ok to confirm the action
+-"Click" on Cart
+-"Click" on Place Order
+-Fill the fields with data
+-"Click" on Purchase
+-Compare and match card number
+
+
+Expected Result: The card number entered in the form
+matches the number shown in the confirmation popup.
+
+######################################
+
+
+URL : https://www.demoblaze.com/cart.html
+
+Data to confirm the purchase:
+Name: Camila
+Country: Argentina
+City: Bs As
+Credit Card: 11111111111111
+Month: 9
+Year: 2023
+
